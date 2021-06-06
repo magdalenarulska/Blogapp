@@ -2,9 +2,11 @@
 Blog-app
 Dokumentacja
 
-CHARAKTERYSTYKA Wizjonerzy- Magdalena Rulska, Marta Pietrzak, a. Nazwa skrócona- Blog app b. Nazwa pełna- Aplikacja Android wykorzystująca Firebase c. Cele- nauka oraz poszerzenie wiedzy dotyczącej firebase w aplikacjach na platformę Android; zagłębienie wiedzy dotyczącej programowania w języku Java w programie Android Studio, poszerzenie wiedzy dotyczącej działania programu Android Studio
+CHARAKTERYSTYKA (Marta Pietrzak-dokumentacja, Magdalena Rulska oraz Szymon Musiołowski- programiści)
 
-PRAWA AUTORSKIE a) Wizjonerzy- Magdalena Rulska, Marta Pietrzak, b) Autorzy- Magdalena Rulska, Marta Pietrzak,
+Wizjonerzy- Magdalena Rulska, Marta Pietrzak, Szymon Musiołowski a. Nazwa skrócona- Blog app b. Nazwa pełna- Aplikacja Android wykorzystująca Firebase c. Cele- nauka oraz poszerzenie wiedzy dotyczącej firebase w aplikacjach na platformę Android; zagłębienie wiedzy dotyczącej programowania w języku Java w programie Android Studio, poszerzenie wiedzy dotyczącej działania programu Android Studio
+
+PRAWA AUTORSKIE a) Wizjonerzy- Magdalena Rulska, Marta Pietrzak, Szymon Musiołowski b) Autorzy- Magdalena Rulska, Marta Pietrzak, Szymon Musiołowski
 
 SPECYFIKACJA WYMAGAŃ- Marta Pietrzak WYMAGANIA FUNKCJONALNE: • Okno logowania- wymagane • Okno logowania- pole „Wpisz email”- wymagane • Okno logowania- pole „Wpisz hasło”- wymagane • Okno logowania- „Zapomniałem hasła”- wymagane • Okno logowania- Zarejestruj się- wymagane • Okno logowania- przycisk- zaloguj się- wymagane • Okno zalogowane- rozwijane menu- opcja „Wyloguj się”- wymagane • Okno rejestracji- pole „Wpisz email”- wymagane • Okno rejestracji- pole „Wpisz hasło”- wymagane • Okno rejestracji- przycisk- zarejestruj się- wymagane • Okno rejestracji- pole- masz już konto?- wymagane • Okno postowania- pole „Tytuł”- wymagane Okno postowania- pole „Wyświetlanie obrazów”- wymagane • Okno postowania- przycisk- załaduj- wymagane
 
